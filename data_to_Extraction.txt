@@ -1,2 +1,0 @@
-"ID: abc\nName: John\nLast name: Johnson\nAge: 27"
-"ID: igb1\nName: Mike\nLast name: Jackson\nPosition: CEO\nAge: 42"
